@@ -15,8 +15,8 @@ The dashboard transforms raw financial data into **actionable insights** by focu
 
 ## 📂 Repository Structure
 - [Financial & Sales Analytics Dashboard.pbix](Financial%20&%20Sales%20Analytics%20Dashboard.pbix) → Power BI dashboard file  
-- [data/Financial_Dataset.xlsx](data/Financial_Dataset.xlsx) → Raw dataset  
-- [images/Preview of Financial & Sales Analytics Dashboard.png](images/Preview%20of%20Financial%20&%20Sales%20Analytics%20Dashboard.png) → Dashboard preview  
+- [Financial_Dataset.xlsx](Financial_Dataset.xlsx) → Raw dataset  
+- [Preview of Financial & Sales Analytics Dashboard.png](Preview%20of%20Financial%20&%20Sales%20Analytics%20Dashboard.png) → Dashboard preview  
 - [README.md](README.md) → Documentation  
 
 ---
@@ -62,7 +62,7 @@ Interactive filters for **Year, Country, and Segment**.
 ---
 
 ## 📊 Final Dashboard Preview
-*(Insert your dashboard preview image here)*
+- [Preview of Financial & Sales Analytics Dashboard.png](Preview%20of%20Financial%20&%20Sales%20Analytics%20Dashboard.png) → Dashboard preview  
 
 ---
 
