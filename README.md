@@ -62,7 +62,8 @@ Interactive filters for **Year, Country, and Segment**.
 ---
 
 ## 📊 Final Dashboard Preview
-- [Preview of Financial & Sales Analytics Dashboard.png](Preview%20of%20Financial%20&%20Sales%20Analytics%20Dashboard.png) → Dashboard preview  
+
+<img width="1920" height="1080" alt="Financial   Sales Analytics – Power BI Dashboard" src="https://github.com/user-attachments/assets/1655bf6f-8224-4ab6-8155-e6a795ab5011" />
 
 ---
 
@@ -82,27 +83,39 @@ Interactive filters for **Year, Country, and Segment**.
 - **Filters/Slicers:** Enable interactive exploration.  
 - **Layout & Design:** Clear, consistent, and easy to interpret.  
 
+---
+
 ### 2. What is a KPI?  
 A **Key Performance Indicator** is a measurable value showing how well a business is achieving objectives.  
 - Example: **Total Sales, Total Profit, Profit Margin %, Units Sold**.  
+
+---
 
 ### 3. What are slicers in Power BI?  
 - **Interactive filters** that let users control displayed data.  
 - Example: Filter by **Year, Country, or Segment**.  
 
+---
+
 ### 4. Difference between Power BI and Tableau?  
 - **Power BI:** Microsoft ecosystem, easier for beginners, cost-effective.  
 - **Tableau:** More advanced customization, better with very large datasets, preferred for complex analytics.  
+
+---
 
 ### 5. How do you make a dashboard interactive?  
 - Add **slicers, filters, drill-throughs, and tooltips**.  
 - Ensure visuals are interconnected for dynamic updates.  
 
+---
+
 ### 6. How do you deal with large datasets in dashboards?  
 - Import only required fields.  
 - Use **aggregations and summary tables**.  
 - Optimize DAX and relationships.  
-- Use **DirectQuery mode** for huge datasets.  
+- Use **DirectQuery mode** for huge datasets.
+
+---
 
 ### 7. What chart types do you use for trend analysis?  
 - **Line Chart** → Sales/Profit over time.  
